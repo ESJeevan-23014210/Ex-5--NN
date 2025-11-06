@@ -1,6 +1,5 @@
-
-<H3>NAME: Jeevan E S</H3>
-<H3>REGISTER NO: 212223230091</H3>
+<H3>ENTER YOUR NAME : Jeevan E S</H3>
+<H3>ENTER YOUR REGISTER NO : 212223230091</H3>
 <H3>EX. NO.5</H3>
 
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
@@ -36,7 +35,7 @@ Step 7: Plot the Input space and Hidden space of RBF NN for XOR classification.
 
 <H3>PROGRAM:</H3>
 
-```python
+```py
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -111,7 +110,9 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 <H3>OUTPUT:</H3>
 
-![image](https://github.com/JoyceBeulah/Ex-5--NN/assets/118343698/78006798-0f21-466d-ae55-2136a6c52a74)
+<img width="1266" height="608" alt="image" src="https://github.com/user-attachments/assets/6c2e06e4-d777-4b2f-a7ce-718d9e706251" />
+
+
 
 <H3>Result:</H3>
 Thus , a Radial Basis Function Neural Network is implemented to classify XOR data.
